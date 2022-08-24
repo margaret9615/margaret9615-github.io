@@ -1,2 +1,2 @@
-# margaret9615-github.io
+# margaret9615.github.io
 My homepage
