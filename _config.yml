@@ -1,3 +1,2 @@
-title: Margaret的个人主页
-description: 我是超可爱的小妹妹对不对ヾ(≧▽≦*)o
-show_downloads: "true"
+markdown:kramdown
+theme:minima
